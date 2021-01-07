@@ -14,6 +14,6 @@
 ## 13. [Publishing React Native Apps](https://github.com/spdobest/ReactNativeWorld/blob/master/ReadMe/13.publishingReactNativeApps.md)  
 ## 14. [React Native Navigation 5](https://github.com/spdobest/ReactNativeWorld/blob/master/ReadMe/14.updatingToReactNavigation5.md)  
 ## 15. [Push Notification](https://github.com/spdobest/ReactNativeWorld/blob/master/ReadMe/15.pushNotification.md)  
-## 16. [Other Tips And Tricks in React Native] ()  
+## 16. [Other Tips And Tricks in React Native](https://github.com/spdobest/ReactNativeWorld/blob/master/ReadMe/16.otherTipsAndTricks.md)  
 
 
